@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="../brand/cooloo-icon.svg" alt="cooloo" width="120">
+  <img src="../brand/cooloo-wordmark.svg" alt="COOLOO" width="360">
 </p>
-
-<h1 align="center">cooloo</h1>
 
 <p align="center">信鸽传书，仅此而已。</p>
 

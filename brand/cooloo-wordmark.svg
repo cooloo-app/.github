@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -40 800 180">
+  <!-- cooloo 字标: 单行 COOLOO。等宽网格 cell=100 笔画=20 字距=24 -->
+  <!-- C/L 橙(#D9622B) 两个异类; 四个 O 墨(#1B1B1D); 纸底(#F4EFE4) -->
+  <rect x="-40" y="-40" width="800" height="180" fill="#F4EFE4"/>
+  <!-- C: 圆环, 80°缺口居中于3点钟方向(朝词内), 直角端头 -->
+  <path d="M 80.64 75.71 A 40 40 0 1 1 80.64 24.29" fill="none" stroke="#D9622B" stroke-width="20"/>
+  <!-- O O -->
+  <circle cx="174" cy="50" r="40" fill="none" stroke="#1B1B1D" stroke-width="20"/>
+  <circle cx="298" cy="50" r="40" fill="none" stroke="#1B1B1D" stroke-width="20"/>
+  <!-- L: 唯一的角, 竖满格, 横脚半格 -->
+  <path d="M 382 0 L 382 100 M 382 90 L 422 90" fill="none" stroke="#D9622B" stroke-width="20"/>
+  <!-- O O -->
+  <circle cx="546" cy="50" r="40" fill="none" stroke="#1B1B1D" stroke-width="20"/>
+  <circle cx="670" cy="50" r="40" fill="none" stroke="#1B1B1D" stroke-width="20"/>
+</svg>
